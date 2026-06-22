@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2942-find-words-containing-character) |
+| [3340-check-balanced-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3340-check-balanced-string) |
 <!---LeetCode Topics End-->
