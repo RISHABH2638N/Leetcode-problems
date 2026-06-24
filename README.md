@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
