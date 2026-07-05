@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
