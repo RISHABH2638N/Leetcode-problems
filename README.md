@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
+| [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
+| [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
