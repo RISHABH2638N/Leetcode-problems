@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 ## Combinatorics
