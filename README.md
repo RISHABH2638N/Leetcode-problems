@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
