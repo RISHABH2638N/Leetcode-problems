@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
