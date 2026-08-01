@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1470-shuffle-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
 ## Linked List
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
