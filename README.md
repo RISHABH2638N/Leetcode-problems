@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
