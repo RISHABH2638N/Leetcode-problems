@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
