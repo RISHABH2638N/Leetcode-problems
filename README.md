@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
