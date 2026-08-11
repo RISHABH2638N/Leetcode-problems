@@ -3,8 +3,8 @@ class Solution {
         int n=nums.length;
         int sum=nums[0];
         ArrayList<Integer> arr=new ArrayList<>();
-        for(int i:nums){
-            arr.add(i);
+        for(int i=0; i<n; i++){
+            arr.add(nums[i]);
         }
         for(int j=1; j<n; j++){
             if(nums[j]==nums[j-1]+1){
