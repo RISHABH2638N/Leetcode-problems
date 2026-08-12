@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
 ## Minimax
 |  |
