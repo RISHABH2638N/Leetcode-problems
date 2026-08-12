@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3731-find-missing-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3731-find-missing-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
