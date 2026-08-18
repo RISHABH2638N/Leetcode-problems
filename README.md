@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Minimax
 |  |
 | ------- |
