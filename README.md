@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
 | ------- |
