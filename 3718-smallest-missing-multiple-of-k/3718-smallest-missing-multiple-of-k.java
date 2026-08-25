@@ -4,7 +4,7 @@ class Solution {
         int p=k;
         for(int i=0; i<nums.length; i++){
             if(nums[i]==p){
-                p += k;
+                p+=k;
             }
         }
         return p;
