@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
 | [1920-build-array-from-permutation](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0917-reverse-only-letters](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
