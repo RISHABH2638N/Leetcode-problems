@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
