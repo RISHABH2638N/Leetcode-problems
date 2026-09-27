@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1695-maximum-erasure-value) |
