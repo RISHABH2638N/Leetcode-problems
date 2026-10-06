@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
+| [1043-partition-array-for-maximum-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 ## Prefix Sum
 |  |
 | ------- |
