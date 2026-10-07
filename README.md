@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1528-shuffle-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
@@ -299,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
