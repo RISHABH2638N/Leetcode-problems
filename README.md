@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
+| [0989-add-to-array-form-of-integer](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
