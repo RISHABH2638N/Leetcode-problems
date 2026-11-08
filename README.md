@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 ## Prefix Sum
