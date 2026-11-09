@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0896-monotonic-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHABH2638N/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
